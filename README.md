@@ -1,5 +1,5 @@
 # Meso ↔️
-<center><img src="![d](https://user-images.githubusercontent.com/107104144/197695795-ff29da7e-093a-44ac-ac49-5991f852636a.jpg)"></center>
+<center><img src="https://user-images.githubusercontent.com/107104144/197695795-ff29da7e-093a-44ac-ac49-5991f852636a.jpg"></center>
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
