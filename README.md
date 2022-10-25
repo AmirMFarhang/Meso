@@ -1,4 +1,6 @@
 # Meso ↔️
+![Ellipse Difference@3x](https://user-images.githubusercontent.com/107104144/197695653-bf1bad75-8f2f-4678-9a99-fc36ba79a03b.png)
+
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 [![telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/CompoSoftware)
