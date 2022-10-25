@@ -1,7 +1,7 @@
 # Meso ↔️
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-[![telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/CompoSoftwares)
+[![telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/CompoSoftware)
 
 Meso is created to make database routines easy and solve some mysqli behaviors in php for once
 # 🚀 About Team
