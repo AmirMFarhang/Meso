@@ -1,4 +1,5 @@
 # Meso ↔️
+Development is still in progress followed by team : https://github.com/Compo-Team/Meso
 <p align="center">
 <img src="https://user-images.githubusercontent.com/107104144/197695795-ff29da7e-093a-44ac-ac49-5991f852636a.jpg" />
 </p>
